@@ -6,11 +6,15 @@ The dataset contains transactional data from a superstore, providing a comprehen
 #### Datasets and Sheets
 The Excel file consists of the following sheets:
 
--- superstore_sales: Contains detailed transactional data.
--- Consumer: Sales data filtered for consumer customer segments.
--- Corporate: Sales data filtered for corporate customer segments.
--- Home Office: Sales data filtered for home office customers.
--- Small Business: Sales data filtered for small businesses.
+superstore_sales: Contains detailed transactional data.
+
+Consumer: Sales data filtered for consumer customer segments.
+
+Corporate: Sales data filtered for corporate customer segments.
+
+Home Office: Sales data filtered for home office customers.
+
+Small Business: Sales data filtered for small businesses.
 
 #### Key Objectives
 Analyze sales performance by customer segment, region, and product categories.
