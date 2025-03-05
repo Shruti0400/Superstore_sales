@@ -3,7 +3,7 @@
 #### About the Dataset
 This dataset contains transactional data from a superstore, offering a comprehensive view of sales performance, customer behavior, and logistics operations. It is designed to facilitate the analysis of order trends, profitability, and regional demand, helping businesses make data-driven decisions to optimize strategies.
 
-##### Datasets and Sheets
+#### Datasets and Sheets
 The Excel file includes multiple sheets categorized by customer segments to enable targeted analysis:
 
 superstore_sales – Complete transactional data.
@@ -12,7 +12,7 @@ Corporate – Sales data filtered for corporate customer segments.
 Home Office – Sales data filtered for home office customers.
 Small Business – Sales data filtered for small businesses.
 
-##### Key Objectives
+#### Key Objectives
 This dataset can be leveraged for:
 
 Sales Performance Analysis – Evaluate revenue, profitability, and customer segmentation.
@@ -48,7 +48,7 @@ Product Information
 Product Category – High-level category of the product (e.g., Office Supplies, Technology).
 Product Sub-Category – Detailed sub-category of the product.
 
-##### Conclusion
+#### Conclusion
 This dataset enables a comprehensive analysis of sales performance and logistics operations, allowing for strategic business decisions to improve profitability, customer satisfaction, and supply chain efficiency.
 
 
